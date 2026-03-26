@@ -824,6 +824,14 @@ margin-top:2px;
         font-size: 2.2rem;
     }
 
+    .case-image {
+        font-size: 1.3rem;
+    }
+
+    .case-content h3 {
+        font-size: 1.1rem;
+    }
+
     .case-studies h2 {
         font-size: 2.2rem;
     }
